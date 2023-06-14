@@ -2,8 +2,9 @@
 - 👀 I’m interested in making cool things
 - 🌱 I’m currently learning C#, web, sql 
 - 💞️ I’m looking to collaborate on linux
-- 📫 How to reach me on my linked in 
-- www.linkedin.com/in/rami-maseesa-00b27727a
+- 📫 How to reach me on my 
+- linked in : www.linkedin.com/in/rami-maseesa-00b27727a
+- github : https://github.com/RamiMaseesa
 
 
 <!---
